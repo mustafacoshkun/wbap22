@@ -4,7 +4,6 @@ Definition	:	-	Basic concepts of visual and event-oriented programming. Topics i
 Credit Hours	:	(3+0+2) 4 ECTS 6
 Days & Time	:	Registration.boun.edu.tr / General Services / MIS233
 Instructor	:	Dr. Mustafa Coşkun 
-mustafa.coskun@boun.edu.tr
 
 Grading	:	-	% 30 Final Exam
 -	% 30 Midterm Exams (%15 + %15) (a total of 2 midterms)
